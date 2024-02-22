@@ -1,0 +1,50 @@
+.sobremim {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 60px;
+}
+
+.fotoEu {
+    width: 300px;
+    border: 5px solid #864622;
+    border-radius: 50%;
+    padding: 2px;
+    margin: 10px;
+}
+
+.apresentacao h1 {
+    color: #d4bda1;
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.apresentacao p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d4bda1;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.apresentacao {
+    background-color: #864622;
+    border-radius: 15px;
+}
+
+.links {
+        padding: 10px;
+}
+
+.linkslinks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+ }
+
+ li {
+    padding-bottom: 20px;
+ }
